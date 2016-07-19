@@ -2,10 +2,16 @@
     <channel>
         <title><![CDATA[LIVINGPLUS.PT]]></title>
         <description><![CDATA[LIVINGPLUS.PT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/livingpluspt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 19:31:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jul 2016 19:36:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/livingpluspt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/livingplus.pt/</link>
+            <guid isPermaLink="false">8d3d1bd4-6c2c-47fd-aaff-5d69ab448375</guid>
+            <pubDate>Tue, 19 Jul 2016 19:36:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MODELS]]></title>
             <description><![CDATA[<article><h1>MODELS</h1><p>Sealver a développé toute une gamme d'embarcations performantes et adaptables aux exigences des professionnels. Sealver has developped a complete range of effective and adaptable to the requirements of professionnals. Sealver ha desarrollado una amplia gama de embarcaciones para responder a las exigencias de los profesionales.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/04cea92c4c80e76892af5582f839c3bb/noop.png?input=http%3A%2F%2Fwww.sealver.com%2Fimages%2Fu7557-4.png%3Fcrc%3D4262832478"></article>]]></description>
