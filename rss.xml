@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LIVINGPLUS.PT]]></title>
+        <description><![CDATA[LIVINGPLUS.PT]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Jul 2016 19:31:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MODELS]]></title>
+            <description><![CDATA[<article><h1>MODELS</h1><p>Sealver a développé toute une gamme d'embarcations performantes et adaptables aux exigences des professionnels. Sealver has developped a complete range of effective and adaptable to the requirements of professionnals. Sealver ha desarrollado una amplia gama de embarcaciones para responder a las exigencias de los profesionales.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/04cea92c4c80e76892af5582f839c3bb/noop.png?input=http%3A%2F%2Fwww.sealver.com%2Fimages%2Fu7557-4.png%3Fcrc%3D4262832478"></article>]]></description>
+            <link>http://www.sealver.com/models.html</link>
+            <guid isPermaLink="false">294226b2-76e4-44c1-9687-97797b60a104</guid>
+            <pubDate>Tue, 19 Jul 2016 19:31:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
