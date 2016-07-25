@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[LIVINGPLUS.PT]]></title>
         <description><![CDATA[LIVINGPLUS.PT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/livingpluspt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 01:28:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jul 2016 01:28:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/livingpluspt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1517a50-37ee-4427-a518-c99ac0210db8.jpg">]]></description>
+            <link>https://thegrid.ai/livingpluspt/ea089b4c-8582-4498-91a8-baadfbebddee/index.html</link>
+            <guid isPermaLink="false">ea089b4c-8582-4498-91a8-baadfbebddee</guid>
+            <pubDate>Mon, 25 Jul 2016 01:28:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42dc678e-b3f7-4e87-bcc4-17fa0aaf758e.jpg">]]></description>
+            <link>https://thegrid.ai/livingpluspt/79ba1459-3427-4795-a765-aaf2bc478e41/index.html</link>
+            <guid isPermaLink="false">79ba1459-3427-4795-a765-aaf2bc478e41</guid>
+            <pubDate>Mon, 25 Jul 2016 01:28:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6716892-3ee8-4649-9114-b3bd06fb596a.jpg">]]></description>
-            <link>undefinedc2906b48-6345-40ee-ba21-155178ca19af/index.html</link>
+            <link>https://thegrid.ai/livingpluspt/c2906b48-6345-40ee-ba21-155178ca19af/index.html</link>
             <guid isPermaLink="false">c2906b48-6345-40ee-ba21-155178ca19af</guid>
             <pubDate>Mon, 25 Jul 2016 01:28:12 GMT</pubDate>
         </item>
