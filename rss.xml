@@ -8,13 +8,6 @@
         <atom:link href="https://thegrid.ai/livingpluspt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82e6d467-a4d8-4c8d-8f2f-85018774f365.jpg">]]></description>
-            <link>https://thegrid.ai/livingpluspt/5a53f111-aca5-49c9-9fbe-281ba3ba195e/index.html</link>
-            <guid isPermaLink="false">5a53f111-aca5-49c9-9fbe-281ba3ba195e</guid>
-            <pubDate>Mon, 25 Jul 2016 01:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d74096dc-3c2d-462e-bd16-200a530909dc.jpg">]]></description>
             <link>https://thegrid.ai/livingpluspt/297560c0-32f4-447e-ad78-06031138dd85/index.html</link>
             <guid isPermaLink="false">297560c0-32f4-447e-ad78-06031138dd85</guid>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/livingpluspt/0a29cf82-4c54-4fb8-9ab9-9b3403d64c6b/index.html</link>
             <guid isPermaLink="false">0a29cf82-4c54-4fb8-9ab9-9b3403d64c6b</guid>
             <pubDate>Mon, 25 Jul 2016 01:28:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f050b9f7-f350-4405-bd8d-175179fea32e.jpg">]]></description>
+            <link>https://thegrid.ai/livingpluspt/68a0ddc2-4214-4659-bddd-26846b0bdc4f/index.html</link>
+            <guid isPermaLink="false">68a0ddc2-4214-4659-bddd-26846b0bdc4f</guid>
+            <pubDate>Mon, 25 Jul 2016 01:28:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
