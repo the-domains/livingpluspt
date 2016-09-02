@@ -4,7 +4,7 @@
         <description><![CDATA[LIVINGPLUS]]></description>
         <link>https://thegrid.ai/livingpluspt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 18:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 08:31:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/livingpluspt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,13 +61,6 @@
             <link>https://thegrid.ai/livingpluspt/3884c044-042e-4227-bf68-cdddc21cbb09/index.html</link>
             <guid isPermaLink="false">3884c044-042e-4227-bf68-cdddc21cbb09</guid>
             <pubDate>Mon, 25 Jul 2016 01:28:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1acd5e82-b722-488c-bb24-3425d9be2c5e.jpg">]]></description>
-            <link>https://thegrid.ai/livingpluspt/0a29cf82-4c54-4fb8-9ab9-9b3403d64c6b/index.html</link>
-            <guid isPermaLink="false">0a29cf82-4c54-4fb8-9ab9-9b3403d64c6b</guid>
-            <pubDate>Mon, 25 Jul 2016 01:28:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
